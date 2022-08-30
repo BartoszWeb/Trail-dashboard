@@ -1,7 +1,7 @@
 {
   "name": "rts",
   "version": "0.1.0",
-  "private": true,
+  "homepage": ".",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.2",
     "@rtk-query/graphql-request-base-query": "^2.1.0",
