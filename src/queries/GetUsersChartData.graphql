@@ -1,0 +1,34 @@
+query getUsersChartData{
+    users {
+        usersChart {
+            all {
+                name
+                users
+            }
+            month {
+                name
+                users
+            }
+            year {
+                name
+                users
+            }
+            today {
+                name
+                users
+            }
+            yesterday {
+                name
+                users
+            }
+            quarter {
+                name
+                users
+            }
+            week {
+                name
+                users
+            }
+        }
+    }
+}

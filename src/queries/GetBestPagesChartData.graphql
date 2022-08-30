@@ -1,0 +1,8 @@
+query getBestPagesChartData{
+    users {
+        bestPages {
+            name
+            users
+        }
+    }
+}

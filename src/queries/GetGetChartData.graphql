@@ -1,0 +1,9 @@
+query getGeoChartData{
+    users {
+        geoChart {
+            v
+            fullName
+            value
+        }
+    }
+}

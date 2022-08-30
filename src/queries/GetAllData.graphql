@@ -1,0 +1,111 @@
+query getUsersTableData{
+    users {
+        usersTable {
+            all {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            yesterday {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            year {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            week {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            month {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            quarter {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+            today {
+                id
+                country
+                device
+                trafficSource
+                firstSession
+                convertedSession
+                browser
+                trails {
+                    id
+                    url
+                    time
+                    sessionDate
+                }
+            }
+        }
+    }
+}

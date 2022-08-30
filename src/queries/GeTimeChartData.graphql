@@ -1,0 +1,34 @@
+query getTimeChartData{
+    users {
+        timeChart {
+            sunday {
+                hour
+                value
+            }
+            monday {
+                hour
+                value
+            }
+            tuesday {
+                hour
+                value
+            }
+            wednesday {
+                hour
+                value
+            }
+            thursday {
+                hour
+                value
+            }
+            friday {
+                hour
+                value
+            }
+            saturday {
+                hour
+                value
+            }
+        }
+    }
+}

@@ -1,0 +1,8 @@
+query getSourceChartData{
+    users {
+        sourceChart {
+            name
+            users
+        }
+    }
+}

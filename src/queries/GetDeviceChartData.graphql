@@ -1,0 +1,8 @@
+query getDeviceChartData{
+    users {
+        deviceChart {
+            name
+            value
+        }
+    }
+}
