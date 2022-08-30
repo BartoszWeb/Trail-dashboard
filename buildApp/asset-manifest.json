@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "./static/js/main.7940a001.js",
+    "static/media/ArrowRight.svg": "./static/media/ArrowRight.a2e4ac89c6adcfc0af537618e180897e.svg",
+    "static/media/MenShopping.svg": "./static/media/MenShopping.705a9e8c87ca247b169c03f02fb7de2d.svg",
+    "static/media/LogoTrailReversedColors.svg": "./static/media/LogoTrailReversedColors.2050a63c351a1ae67f15ee396e81aa3d.svg",
+    "static/media/LogoTrail.svg": "./static/media/LogoTrail.b6afd03cb1e2ae1779bfbf5e8bfec100.svg",
+    "static/media/Success.svg": "./static/media/Success.0d51f4932611e4041beab6fe93f22c4f.svg",
+    "static/media/Exit.svg": "./static/media/Exit.f6c0d6bfe0664ff63f86aa71f5bd1e02.svg",
+    "index.html": "./index.html",
+    "static/media/ArrowDown.svg": "./static/media/ArrowDown.9b1d380eb417fac7f311cd8eb15039e9.svg",
+    "main.7940a001.js.map": "./static/js/main.7940a001.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7940a001.js"
+  ]
+}
